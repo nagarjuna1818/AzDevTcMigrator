@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzDevTcMigrator": {
+      "commandName": "Project",
+      "commandLineArgs": "{devops_org_url} {devops_projectname} {devops-pat} \"{test_cases_source_excel_file_path}\" \"{attachments_folder_path}\""
+    }
+  }
+}
